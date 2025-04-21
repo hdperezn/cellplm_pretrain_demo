@@ -1,0 +1,3 @@
+# Ignore datasets and checkpoints
+CellPLM/ckpt/
+CellPLM/data/
